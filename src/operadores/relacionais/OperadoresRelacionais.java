@@ -1,6 +1,6 @@
-package OperadoresRelacionais;
+package operadores.relacionais;
 
-import org.w3c.dom.ls.LSOutput;
+
 
 public class OperadoresRelacionais {
   public static void main(String[] args) {
