@@ -19,6 +19,7 @@ public class MaiorEMedia {
       if(numero > maiorNumero) maiorNumero = numero;
       count += 1;
     } while (count < 5);
+
     System.out.println("A média é: " + (soma / 5));
   }
 }
